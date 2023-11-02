@@ -4,12 +4,14 @@
 * {
   margin: 0;
   font-family: "Quicksand";
+ 
 }
 
 body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #363232
 }
 
 
